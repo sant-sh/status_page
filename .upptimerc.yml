@@ -7,15 +7,15 @@ sites:
   - name: Resume
     url: $PERSONAL
   - name: Yunohost (Secondary)
-    url: ${{ secrets.YUNOHOST_SECONDARY }}
+    url: $YUNOHOST_SECONDARY
   - name: Yunohost (Primary)
-    url: ${{ secrets.YUNOHOST_PRIMARY }}
+    url: $YUNOHOST_PRIMARY
   - name: Flow
-    url: ${{ secrets.FLOW }}
+    url: $FLOW
     expectedStatusCodes: 
     - 401
   - name: Linux
-    url: ${{ secrets.LINUX }}
+    url: $LINUX
 
 status-website:
   cname: status.sant.sh
