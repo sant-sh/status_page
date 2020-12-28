@@ -1,92 +1,102 @@
 [
   {
     "name": "Resume",
-    "url": "https://sant.sh",
-    "icon": "https://favicons.githubusercontent.com/sant.sh",
+    "url": "${{ secrets.PERSONAL }}",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "resume",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.63%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "98.63%",
     "time": 343,
     "timeDay": 343,
     "timeWeek": 343,
     "timeMonth": 343,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-28": 0
+    }
   },
   {
     "name": "Yunohost (Secondary)",
-    "url": "https://yuno.sant.sh",
-    "icon": "https://favicons.githubusercontent.com/yuno.sant.sh",
+    "url": "${{ secrets.YUNOHOST_SECONDARY }}",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "yunohost-secondary",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.77%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "98.77%",
     "time": 900,
     "timeDay": 900,
     "timeWeek": 900,
     "timeMonth": 900,
     "timeYear": 900,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-28": 0
+    }
   },
   {
     "name": "Yunohost (Primary)",
-    "url": "https://iam.sant.sh",
-    "icon": "https://favicons.githubusercontent.com/iam.sant.sh",
+    "url": "${{ secrets.YUNOHOST_PRIMARY }}",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "yunohost-primary",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.04%",
     "time": 873,
     "timeDay": 873,
     "timeWeek": 873,
     "timeMonth": 873,
     "timeYear": 873,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-28": 0
+    }
   },
   {
     "name": "Flow",
-    "url": "https://flow.sant.sh",
-    "icon": "https://favicons.githubusercontent.com/flow.sant.sh",
+    "url": "${{ secrets.FLOW }}",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flow",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.04%",
     "time": 724,
     "timeDay": 724,
     "timeWeek": 724,
     "timeMonth": 724,
     "timeYear": 724,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-28": 0
+    }
   },
   {
     "name": "Linux",
-    "url": "https://linux.sant.sh",
-    "icon": "https://favicons.githubusercontent.com/linux.sant.sh",
+    "url": "${{ secrets.LINUX }}",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "linux",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
     "time": 701,
     "timeDay": 701,
     "timeWeek": 701,
     "timeMonth": 701,
     "timeYear": 701,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-28": 0
+    }
   }
 ]
