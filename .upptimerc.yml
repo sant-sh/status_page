@@ -12,7 +12,8 @@ sites:
     url: https://iam.sant.sh
   - name: Flow
     url: https://flow.sant.sh
-    expectedStatusCodes: 401
+    expectedStatusCodes: 
+    - 401
   - name: Linux
     url: https://linux.sant.sh
 
