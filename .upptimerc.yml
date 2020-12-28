@@ -5,7 +5,7 @@ user-agent: sant-sh
 # Add your sites here
 sites:
   - name: Resume
-    url: ${{ secrets.PERSONAL }}
+    url: $PERSONAL
   - name: Yunohost (Secondary)
     url: ${{ secrets.YUNOHOST_SECONDARY }}
   - name: Yunohost (Primary)
