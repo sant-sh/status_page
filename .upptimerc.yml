@@ -5,17 +5,17 @@ user-agent: sant-sh
 # Add your sites here
 sites:
   - name: Resume
-    url: https://sant.sh
+    url: ${{ secrets.PERSONAL }}
   - name: Yunohost (Secondary)
-    url: https://yuno.sant.sh
+    url: ${{ secrets.YUNOHOST_SECONDARY }}
   - name: Yunohost (Primary)
-    url: https://iam.sant.sh
+    url: ${{ secrets.YUNOHOST_PRIMARY }}
   - name: Flow
-    url: https://flow.sant.sh
+    url: ${{ secrets.FLOW }}
     expectedStatusCodes: 
     - 401
   - name: Linux
-    url: https://linux.sant.sh
+    url: ${{ secrets.LINUX }}
 
 status-website:
   cname: status.sant.sh
