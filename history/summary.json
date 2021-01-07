@@ -22,9 +22,9 @@
     "url": "$YUNOHOST_SECONDARY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "yunohost-secondary",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 938,
     "timeMonth": 951,
     "timeYear": 951,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-07": 0
+    }
   },
   {
     "name": "Yunohost (Primary)",
@@ -59,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flow",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "98.66%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
     "time": 726,
     "timeDay": 1059,
     "timeWeek": 747,
