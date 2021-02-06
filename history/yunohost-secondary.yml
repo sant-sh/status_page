@@ -1,7 +1,7 @@
 url: $YUNOHOST_SECONDARY
-status: up
-code: 200
-responseTime: 947
-lastUpdated: 2021-02-05T23:01:01.296Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2021-02-06T19:18:43.888Z
 startTime: Mon Dec 28 2020 08:46:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
