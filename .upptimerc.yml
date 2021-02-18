@@ -4,7 +4,7 @@ user-agent: sant-sh
 
 # Add your sites here
 sites:
-  - name: Resume
+  - name: Personal
     url: $PERSONAL
   - name: Yunohost (Secondary)
     url: $YUNOHOST_SECONDARY
