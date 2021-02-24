@@ -4,9 +4,9 @@
     "url": "$PERSONAL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 370,
     "timeMonth": 370,
     "timeYear": 370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-24": 0
+    }
   },
   {
     "name": "Yunohost (Secondary)",
