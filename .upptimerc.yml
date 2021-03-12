@@ -14,7 +14,7 @@ sites:
     url: $FLOW
     expectedStatusCodes: 
     - 401
-  - name: Linux
+  - name: 404
     url: $LINUX
 
 status-website:
