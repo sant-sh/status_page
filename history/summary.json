@@ -25,7 +25,7 @@
     "url": "$YUNOHOST_SECONDARY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "yunohost-secondary",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,7 +53,7 @@
     "uptimeYear": "100.00%",
     "time": 887,
     "timeDay": 930,
-    "timeWeek": 933,
+    "timeWeek": 931,
     "timeMonth": 897,
     "timeYear": 887,
     "dailyMinutesDown": {}
